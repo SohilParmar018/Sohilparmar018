@@ -18,7 +18,7 @@
 
 # 🚀 About Me
 
-I'm a **B.Tech Agricultural Information Technology** student passionate about **Full Stack Web Development**. I enjoy building real-world web applications using **ASP.NET, PHP, MySQL, HTML, CSS, Bootstrap,Python and JavaScript** while continuously improving my programming and problem-solving skills.
+I'm a **B.Tech Agricultural Information Technology** student passionate about **Full Stack Web Development**. I enjoy building real-world web applications using **ASP.NET,MySQL, HTML, CSS, Bootstrap,Python and JavaScript** while continuously improving my programming and problem-solving skills.
 
 - 🎓 B.Tech Agricultural Information Technology (2023–2027)
 - 🌱 Currently learning **Python, JavaScript, Node.js & MySQL**
