@@ -53,17 +53,13 @@ I'm a **B.Tech Agricultural Information Technology** student passionate about **
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SohilParmar018&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SohilParmar018&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
 
 <img src="https://streak-stats.demolab.com?user=SohilParmar018&theme=tokyonight&hide_border=true" width="60%"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=SohilParmar018&theme=darkhub&no-frame=true&row=1&margin-w=15" width="90%"/>
-
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=SohilParmar018&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+</p>
 </div>
-
----
 
 ---
 
